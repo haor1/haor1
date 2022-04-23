@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haor1
-- 👀 I’m interested in programming and I am currently searching for new opportunities.
+- 👀 I’m interested in programming and I am currently searching for new professional opportunities.
 - 🌱 I’m currently learning how to make more meaningful contributions to OSS.
 - 💞️ I’m looking to collaborate on projects that use Ruby, SQL, and JavaScript.
 - 📫 You can reach me at hotero001 at icloud.com
