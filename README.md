@@ -5,7 +5,7 @@
 - 📫 You can reach me at hotero001 at icloud.com
 
 
-![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt&show_icons=true)
+![Hector's GitHub stats](https://github-readme-stats.vercel.app/api?username=haor1&theme=cobalt&show_icons=true)
 
 
 <!---
